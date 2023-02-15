@@ -4,6 +4,7 @@ format:
     theme: [default, styles.scss]
     width: 1200
     slide-number: true
+    embed-resources: false
 execute: 
   echo: true
 ---
