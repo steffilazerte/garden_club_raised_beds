@@ -1,0 +1,261 @@
+---
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    width: 1200
+    slide-number: true
+execute: 
+  echo: true
+---
+
+## {background-image="figures/IMG_20190721_183939759~2.jpg" style="margin-top:350px"}
+
+### Raised Bed Gardening {.white .shadow style="font-size:200%"}
+
+:::{.white .shadow style="margin-top:50px; font-size:150%"}
+### Brandon Garden Club 2023 {.white .shadow}
+ 
+**Alex Koiter and Steffi LaZerte**
+:::
+
+## What is a raised bed?
+
+![](figures/IMG_20190610_205454528.jpg){.absolute right=0 bottom=0 width="70%"}
+
+Any soil raised up
+
+- Nothing
+- Stone
+- Wood (type)
+- Metal
+- Recycled material
+
+
+
+## Why?
+
+- Attractive
+- Logistics (bending, weed control)
+- Early warming
+- Better control of soil
+  - Organics
+  - Fertilizer
+  - Drainage
+
+
+![](figures/IMG-20190826-WA0001.jpg){.absolute right=0 bottom=0 width="70%"}
+
+
+
+# Building {background-image="figures/IMG_20190511_145201842.jpg" background-size=75% background-position="right 0 top 50%"}
+
+**_Design<br>Considerations_**
+
+## Sun
+
+:::{layout="[14,25]"}
+![](figures/IMG_20180618_122553109.jpg)
+
+![](figures/IMG_20180704_135256621_HDR.jpg)
+:::
+
+## Location
+![](figures/IMG_20190511_174629285.jpg){fig-align="center"}
+
+## Layout
+
+:::{.absolute layout="[3,2.7]" bottom="-10%" layout-valign="bottom"}
+
+:::{.r-stack}
+![](figures/IMG_20190413_124735803_HDR.jpg)
+
+![](figures/IMG_20190511_161152198_HDR.jpg){.fragment}
+:::
+
+![](figures/IMG_20200604_185228781.jpg)
+:::
+
+
+- Width (~2' reach = ~4' width)
+- Height (Sitting, bending)
+- Spacing (Walking, wheelbarrows)
+
+    
+    
+## Material / Costs
+
+:::{layout="[25,14]"}
+![](figures/IMG_20190511_145213242_HDR.jpg)
+
+![](figures/IMG_20190512_203705727.jpg)
+:::
+
+## Labour
+
+:::{layout="[20,15]" layout-valign="center"}
+![](figures/IMG_20190417_083138405.jpg)
+
+![](figures/IMG-20190427-WA0000.jpg)
+:::
+
+## Labour
+
+:::{layout="[25,14.25]"}
+![](figures/IMG_20190513_102835303_HDR.jpg)
+
+![](figures/IMG_20190513_184154835_HDR.jpg)
+:::
+
+## Labour
+
+![](figures/IMG_20190520_141917114_HDR.jpg){.r-stretch fig-align="center"}
+
+## Labour
+
+:::{layout="[-1, 10, -1, 10, -1]"}
+![](figures/IMG-20190602-WA0004.jpg)
+
+:::{.r-stack}
+![](figures/IMG_20190609_144904245_HDR.jpg)
+
+![](figures/IMG_20210613_191055076_HDR.jpg){.fragment}
+:::
+
+:::
+
+# Building {background-image="figures/IMG_20200531_114658762_HDR.jpg" background-size=75% background-position="right 0 top 50%"}
+
+**_Utilities<br>& Structures_**
+
+## Water / Power
+
+![](figures/IMG_20190601_110235850.jpg){fig-align="center"}
+
+## Structures
+
+
+:::{layout="[5,3.3]" layout-valign="center"}
+![](figures/IMG_20211002_171739957.jpg)
+
+![](figures/IMG_20220607_101731147_HDR.jpg)
+:::
+
+## Structures
+
+:::{layout="[-1, 5, 5, -1]"}
+![](figures/IMG-20190827-WA0002.jpg)
+
+![](figures/IMG_20210613_191055076_HDR.jpg)
+:::
+
+
+
+# Growing {background-image="figures/IMG_20190921_131341342-COLLAGE.jpg" background-size="70%" background-position="right"}
+
+## Growing a Jungle
+
+- Intensively
+- Densely
+- High nutrient requirements
+- Barely any weeds!
+
+> Not field rows 
+
+![](figures/20190817_111543.jpg){.absolute right="-100px" top=0}
+
+## Varieties
+
+- Compact(ish)
+- Grow up (pole beans vs. bush beans, zucchini!)
+- Continuous harvest (shooting broccoli vs. heading)
+
+
+:::{.absolute layout="[-0.5, 7.5,-1, 5]" layout-valign="bottom" bottom="-50px"}
+![](figures/IMG_20200531_084723874_HDR.jpg){width="80%"}
+
+![](figures/piracicaba.webp)
+:::
+
+::: {.footer style="text-align:right; bottom:40px; right: 20px;"}
+
+Piracicaba Broccoli - Annapolis Seeds
+
+:::
+  
+## Bees
+
+
+:::{layout="[9, 5.5]" layout-valign="center"}
+![](figures/IMG-20190826-WA0001.jpg)
+
+![](figures/IMG_20190818_152751217.jpg)
+:::
+    
+## Bees
+
+:::{layout="[-1, 5, 5, -1]"}
+![](figures/IMG_20200516_111204644_HDR.jpg)
+
+![](figures/IMG_20220524_105436807.jpg)
+:::
+
+## Bees
+
+![](figures/IMG-20190921-WA0004.jpg){fig-align="center"}
+
+
+# Cover  {background-image="figures/IMG_20210523_104824227.jpg" background-size="80%" background-position="right"}
+ 
+## Protection
+
+- Insect barriers
+- Shade cloth
+- Poly greenhouse
+- Cloches
+
+:::{layout="[-0.25, 5, -0.25, 4.5, -0.25]" layout-valign="bottom" .absolute bottom=-60}
+![](figures/IMG_20210723_113857839.jpg)
+
+![](figures/IMG_20210519_210720163.jpg)
+:::
+
+## Hardening-off / Mini-green house
+
+![](figures/IMG_20200503_125902599.jpg){fig-align="center"}
+
+## Early harvests
+
+:::{layout="[7, 4]"}
+![](figures/IMG_20200503_125917443.jpg)
+
+![](figures/IMG_20200510_141656463_HDR.jpg)
+:::
+
+## Trials and Tribulations
+
+![](figures/IMG_20210528_091803842_HDR.jpg){.absolute right=-60 width="70%"}
+
+#### Failures
+- Garlic
+
+#### Statements
+- Pumpkins
+- Pole beans
+
+#### Abundance
+- Peppers
+- Tomatoes
+- Eggplant (weather dependent)
+
+#### Amendments
+- Fertilizer!
+
+
+
+## {.white .shadow background-image="figures/IMG_20230210_130032417_HDR.jpg"}
+
+
+[Can't wait for spring...]{style="font-size:200%;"}
+
+
+
