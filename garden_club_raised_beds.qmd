@@ -14,7 +14,7 @@ execute:
 ### Raised Bed Gardening {.white .shadow style="font-size:200%"}
 
 :::{.white .shadow style="margin-top:50px; font-size:150%"}
-### Brandon Garden Club 2023 {.white .shadow}
+### Sprucewoods Garden Club 2023 {.white .shadow}
  
 **Alex Koiter and Steffi LaZerte**
 :::
@@ -36,12 +36,14 @@ Any soil raised up
 ## Why?
 
 - Attractive
-- Logistics (bending, weed control)
+- Logistics  
+  (bending, weed control)
 - Early warming
 - Better control of soil
   - Organics
   - Fertilizer
   - Drainage
+- Less compaction
 
 
 ![](figures/IMG-20190826-WA0001.jpg){.absolute right=0 bottom=0 width="70%"}
@@ -256,7 +258,7 @@ Piracicaba Broccoli - Annapolis Seeds
 ## {.white .shadow background-image="figures/IMG_20230210_130032417_HDR.jpg"}
 
 
-[Can't wait for spring...]{style="font-size:200%;"}
+[Waiting for spring...]{style="font-size:200%;"}
 
 
 
