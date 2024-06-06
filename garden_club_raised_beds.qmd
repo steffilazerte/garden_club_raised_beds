@@ -14,7 +14,7 @@ execute:
 ### Raised Bed Gardening {.white .shadow style="font-size:200%"}
 
 :::{.white .shadow style="margin-top:50px; font-size:150%"}
-### Sprucewoods Garden Club 2023 {.white .shadow}
+### Westman Gardeners 2024 {.white .shadow}
  
 **Alex Koiter and Steffi LaZerte**
 :::
@@ -36,8 +36,9 @@ Any soil raised up
 ## Why?
 
 - Attractive
-- Logistics  
-  (bending, weed control)
+- Accessibility
+- Logistics (weed control)
+- Productivity
 - Early warming
 - Better control of soil
   - Organics
@@ -67,16 +68,14 @@ Any soil raised up
 
 ## Layout
 
-:::{.absolute layout="[3,2.7]" bottom="-10%" layout-valign="bottom"}
-
-:::{.r-stack}
+:::{.r-stack .absolute bottom=0 width=50%}
 ![](figures/IMG_20190413_124735803_HDR.jpg)
 
-![](figures/IMG_20190511_161152198_HDR.jpg){.fragment}
+![](figures/IMG_20190511_161152198_HDR.jpg){.fragment .absolute bottom=0}
 :::
 
-![](figures/IMG_20200604_185228781.jpg)
-:::
+![](figures/IMG_20200604_185228781.jpg){.absolute bottom=0 right=0 width=50%}
+
 
 
 - Width (~2' reach = ~4' width)
@@ -173,11 +172,10 @@ Any soil raised up
 - Continuous harvest (shooting broccoli vs. heading)
 
 
-:::{.absolute layout="[-0.5, 7.5,-1, 5]" layout-valign="bottom" bottom="-50px"}
-![](figures/IMG_20200531_084723874_HDR.jpg){width="80%"}
+![](figures/IMG_20200531_084723874_HDR.jpg){.absolute bottom=0 width="50%"}
 
-![](figures/piracicaba.webp)
-:::
+![](figures/piracicaba.webp){.absolute right=0 bottom=0}
+
 
 ::: {.footer style="text-align:right; bottom:40px; right: 20px;"}
 
@@ -216,22 +214,27 @@ Piracicaba Broccoli - Annapolis Seeds
 - Poly greenhouse
 - Cloches
 
-:::{layout="[-0.25, 5, -0.25, 4.5, -0.25]" layout-valign="bottom" .absolute bottom=-60}
-![](figures/IMG_20210723_113857839.jpg)
+![](figures/IMG_20210723_113857839.jpg){.absolute width="45%" bottom=0}
 
-![](figures/IMG_20210519_210720163.jpg)
-:::
+![](figures/IMG_20210519_210720163.jpg){.absolute width="50%" bottom=0 right=0}
 
-## Hardening-off / Mini-green house
+## Hardening-off / Greenhouse
 
-![](figures/IMG_20200503_125902599.jpg){fig-align="center"}
+![](figures/tunnel1.jpg){.absolute width="55%" bottom=0 left=-50}
+![](figures/tunnel.jpg){.absolute width="50%" bottom=0 right=-50}
 
 ## Early harvests
 
-:::{layout="[7, 4]"}
-![](figures/IMG_20200503_125917443.jpg)
+![](figures/cold_frame.jpg){.absolute bottom=30 left=-50 width="60%"}
 
-![](figures/IMG_20200510_141656463_HDR.jpg)
+![](figures/cold_frame2.jpg){.absolute bottom=50 right=-50 width="45%"}
+
+## Early harvests
+
+:::{layout="[4, 4]"}
+![](figures/zucchini_warm.jpg)
+
+![](figures/zucchini_flower.jpg)
 :::
 
 ## Trials and Tribulations
@@ -255,10 +258,28 @@ Piracicaba Broccoli - Annapolis Seeds
 
 
 
-## {.white .shadow background-image="figures/IMG_20230210_130032417_HDR.jpg"}
+## {background-image="figures/IMG_20230210_130032417_HDR.jpg"}
+
+### Snow {.white .shadow style="font-size:200%;"}
 
 
-[Waiting for spring...]{style="font-size:200%;"}
+
+## {background-image="figures/snow.jpg"}
+
+### Snow! {.white .shadow style="font-size:200%;"}
+
+
+
+## {background-image="figures/no_snow.jpg"}
+
+### Recovery {.white .shadow style="font-size:200%;"}
+
+:::{.fragment .white .shadow style="margin-top:450px; font-size:400%"}
+### Thank you! {.white .shadow}
+:::
+
+<!-- ## {.white .shadow background-image=} -->
+<!-- [Waiting for spring...]{style="font-size:200%;"} -->
 
 
 
